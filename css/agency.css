@@ -875,10 +875,34 @@ body {
     position: absolute;
     left: 0px;
     top: 0px;
-    margin-top: 288px;
+    margin-top: 95px;
     margin-bottom: 200px;
 }
-
+@media(min-width:320px){
+    .red-banner{        
+        margin-top: 222px;
+    }
+}
+@media(min-width:360px){
+    .red-banner{        
+        margin-top: 207px;
+    }
+}
+@media(min-width:768px){
+    .red-banner{        
+        margin-top: 288px;
+    }
+}
+@media(min-width:900px){
+    .red-banner{        
+        height: 317px;
+    }
+}
+@media(min-width:992px){
+    .red-banner{        
+        height: 216px;
+    }
+}
 .logo{
     background-image: url(../img/logo.png);
     background-repeat: no-repeat;
