@@ -880,17 +880,28 @@ body {
 }
 @media(min-width:320px){
     .red-banner{        
-        margin-top: 222px;
+        height: 222px;
     }
 }
 @media(min-width:360px){
     .red-banner{        
-        margin-top: 207px;
+        height: 207px;
+    }
+}
+@media(min-width:465px){
+    .red-banner{        
+        height: 184px;
+    }
+}
+@media(min-width:585px){
+    .red-banner{        
+        height: 130px;
     }
 }
 @media(min-width:768px){
     .red-banner{        
-        margin-top: 288px;
+        margin-top: 296px;
+        height: 300px;
     }
 }
 @media(min-width:900px){
