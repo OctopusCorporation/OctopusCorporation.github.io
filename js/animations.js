@@ -5,6 +5,7 @@ $(function () {
 	var videoCon = document.getElementById("consumerAnimationVideo");
 
 	$("#spinnerBox").hide();
+	$("#consumerAnimationBox").hide();
 
 	$("#developerAnimationButton").click(function(){
 		// Developer Animation
