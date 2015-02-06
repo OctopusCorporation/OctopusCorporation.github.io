@@ -4,7 +4,7 @@ $(function () {
 	var videoDev = document.getElementById("developerAnimationVideo");
 	var videoCon = document.getElementById("consumerAnimationVideo");
 
-	$("#spinnerBox").hide();
+	//$("#spinnerBox").hide();
 	$("#consumerAnimationBox").hide();
 
 	$("#developerAnimationButton").click(function(){
